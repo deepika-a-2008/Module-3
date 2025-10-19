@@ -28,3 +28,4 @@ print("Words without 'e':", l1)
 <img width="665" height="201" alt="image" src="https://github.com/user-attachments/assets/7a1fd442-e63b-4696-aacd-35a41e91e08a" />
 
 ## Result
+Thus the program executed successfully.
