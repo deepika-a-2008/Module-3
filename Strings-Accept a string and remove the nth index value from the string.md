@@ -29,3 +29,4 @@ def remove(a):
 <img width="1192" height="302" alt="image" src="https://github.com/user-attachments/assets/99adcf1f-7d23-4f7d-83da-f109edc3cfe4" />
 
 ## Result
+Thus the program executed successfully.
